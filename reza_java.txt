@@ -1,6 +1,7 @@
 Nama  : Reza Muhammad Abdul Rasyid
 Gugus : Java
 
+Materi Figma dan UI UX Desain
 Figma adalah Figma adalah alat desain kolaboratif berbasis cloud yang digunakan untuk merancang user interface (UI) dan pengalaman pengguna (UX) untuk aplikasi, website, dan produk digital lainnya.
 - berbasis vektor
 - berbasis cloud
