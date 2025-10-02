@@ -1,0 +1,23 @@
+Nama  : Reza Muhammad Abdul Rasyid
+Gugus : Java
+
+Figma adalah Figma adalah alat desain kolaboratif berbasis cloud yang digunakan untuk merancang user interface (UI) dan pengalaman pengguna (UX) untuk aplikasi, website, dan produk digital lainnya.
+- berbasis vektor
+- berbasis cloud
+- fitur auto save atau otomatis tersimpan
+- kolaborasi secara realtime
+- terdapat fitur prototyping
+- kerja sama mudah
+Kenapa menggunakan Figma
+- tools paling populer
+- cocok untuk pekerjaan remote
+- tidak hanya untuk UI UX desain tapi juga untuk developer
+Ranking UI UX Desain Tools
+1. Figma
+2. Adobe Xd
+3. Sketch 
+Prinsip dasar desain
+Keseimbangan (Balance): Keseimbangan dalam desain dapat bersifat simetris (elemen identik di kedua sisi) atau asimetris (elemen yang berbeda namun memiliki "bobot" visual yang sama) untuk menciptakan stabilitas. 
+Kontras (Contrast): Penggunaan perbedaan yang mencolok pada warna, ukuran, bentuk, atau tekstur untuk memecah keseragaman, menarik perhatian, dan menciptakan minat visual. 
+Penekanan (Emphasis): Menyoroti satu atau lebih elemen desain untuk menjadikannya titik fokus utama, sehingga memandu mata audiens ke bagian terpenting dari desain. 
+Proporsi (Proportion): Mengacu pada ukuran dan hubungan spasial antara elemen-elemen dalam sebuah desain, memastikan agar tidak ada elemen yang terlalu besar atau terlalu kecil sehingga terlihat tidak harmonis. 
